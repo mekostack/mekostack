@@ -1,6 +1,6 @@
 # hey, i'm meko
 
-> into c, reverse engineering, and cybersecurity.
+> into programming, reverse engineering, and cybersecurity.
 
 ## about me
 
