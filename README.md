@@ -40,4 +40,4 @@ Get better at programming, build projects worth sharing, and develop a solid und
 
 ---
 
-`still learning.`
+`still learning,(my roblox developer portfolio is also linked under my profile for more info development / game wise)`
