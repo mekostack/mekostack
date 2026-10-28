@@ -1,16 +1,43 @@
-## Hi there 👋
+# hey, i'm meko
 
-<!--
-**mekostack/mekostack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> into c, reverse engineering, and cybersecurity.
 
-Here are some ideas to get you started:
+## about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 15 y/o CS student
+- learning cybersecurity and reverse engineering
+- participating in **CyberPatriot**
+- coding in Luau and C#
+- currently learning C
+- mostly interested in understanding how software works under the hood
+
+## languages
+
+- **Luau** — Roblox scripting and game systems
+- **C#** — Unity game development
+- **C** — currently learning, focusing on low-level programming
+
+## interests
+
+- Cybersecurity
+- Reverse engineering
+- Low-level programming
+- Operating systems
+- Computer architecture
+- Game development
+- Software internals
+
+## currently learning
+
+- C and memory management
+- Cybersecurity fundamentals
+- Reverse engineering techniques
+- How software works at a lower level
+
+## goals
+
+Get better at programming, build projects worth sharing, and develop a solid understanding of computer science and cybersecurity.
+
+---
+
+`still learning.`
