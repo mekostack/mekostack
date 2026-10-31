@@ -1,43 +1,34 @@
-# hey, i'm meko
+hey, i'm meko
 
-> into programming, reverse engineering, and cybersecurity.
 
-## about me
+about me
 
-- 15 y/o CS student
-- learning cybersecurity and reverse engineering
-- participating in **CyberPatriot**
-- coding in Luau and C#
-- currently learning C
-- mostly interested in understanding how software works under the hood
+15 y/o CS student
 
-## languages
+interested in programming, cybersecurity & reverse engineering
 
-- **Luau** — Roblox scripting and game systems
-- **C#** — Unity game development
-- **C** — currently learning, focusing on low-level programming
+learning C++ and planning to get into C
 
-## interests
+working with Luau and C#
 
-- Cybersecurity
-- Reverse engineering
-- Low-level programming
-- Operating systems
-- Computer architecture
-- Game development
-- Software internals
+a little about my journey
 
-## currently learning
+still figuring out what I want to specialize in
 
-- C and memory management
-- Cybersecurity fundamentals
-- Reverse engineering techniques
-- How software works at a lower level
+sometimes struggle with consistency and motivation
 
-## goals
+learning to deal with setbacks instead of giving up
 
-Get better at programming, build projects worth sharing, and develop a solid understanding of computer science and cybersecurity.
+trying to find my place in programming
 
----
+interests
 
-`still learning,(my roblox developer portfolio is also linked under my profile for more info development / game wise)`
+Reverse engineering
+
+Cybersecurity
+
+Low-level programming
+
+Operating systems
+
+Game development
